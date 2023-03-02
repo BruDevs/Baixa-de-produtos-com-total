@@ -1,0 +1,10 @@
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\bin\Debug\For Reach.exe.config
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\bin\Debug\For Reach.exe
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\bin\Debug\For Reach.pdb
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\obj\Debug\For Reach.csproj.AssemblyReference.cache
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\obj\Debug\For_Reach.Form1.resources
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\obj\Debug\For_Reach.Properties.Resources.resources
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\obj\Debug\For Reach.csproj.GenerateResource.cache
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\obj\Debug\For Reach.csproj.CoreCompileInputs.cache
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\obj\Debug\For Reach.exe
+C:\Users\Manager\Desktop\Add de produtos com Foreach\For Reach\For Reach\obj\Debug\For Reach.pdb
